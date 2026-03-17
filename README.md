@@ -42,7 +42,7 @@ print(regression.predict([[3300,1300]]))
 
 
 ```
-## Output:![exp 10 img](<exp 10-1.png>)
+## Output:![exp 10 img]
 
 
 
