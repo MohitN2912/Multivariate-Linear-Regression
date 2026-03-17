@@ -42,7 +42,8 @@ print(regression.predict([[3300,1300]]))
 
 
 ```
-## Output:<img width="587" height="308" alt="exp 10" src="https://github.com/user-attachments/assets/3177ba4f-10a0-4cbe-b363-92f577b48e36" />
+## Output:
+<img width="587" height="308" alt="exp 10" src="https://github.com/user-attachments/assets/3177ba4f-10a0-4cbe-b363-92f577b48e36" />
 
 
 
